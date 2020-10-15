@@ -19,4 +19,4 @@ Please submit any additional resources via pull request, or send them to me dire
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 #### Other fast.ai resources
 * [fastai package documentation](https://docs.fast.ai/)
-* [fast.ai formums](https://forums.fast.ai/)
+* [fast.ai forums](https://forums.fast.ai/)
