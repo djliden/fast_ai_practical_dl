@@ -8,6 +8,8 @@ This repository contains resources found and/or developed by the [TWIML fast.ai 
 Please submit any additional resources via pull request, or send them to me directly and I will add them!
 
 ### Deep Learning for Coders with fastai & PyTorch Book Chapters and Related Resources
+* [All book chapters](https://github.com/fastai/fastbook) -- the Fast.ai book as iPython notebooks
+* [MOOC](https://course.fast.ai/) -- Includes videos, setup instructions, etc.
 #### Chapter 5: Image Classification
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb)
 - Demo of Transfer Learning in Fastai: [Notebook](notebooks/(Un)freezing%20and%20Transfer%20Learning.ipynb)
