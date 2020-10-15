@@ -11,6 +11,6 @@ This repository contains resources found and/or developed by the [TWIML fast.ai 
 ### Deep Learning for Coders with fastai & PyTorch Book Chapters
 #### Chapter 5: Image Classification
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb)
-- Demo of Transfer Learning in Fastai: [Notebook](./notebooks/\(Un\)freezing and Transfer Learning.ipynb)
+- Demo of Transfer Learning in Fastai: [Notebook](notebooks/\(Un\)freezing and Transfer Learning.ipynb)
 #### Chapter 6: Other Computer Vision Problems
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
