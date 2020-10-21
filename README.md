@@ -19,6 +19,12 @@ Please submit any additional resources via pull request, or send them to me dire
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/08_collab.ipynb)
 #### Chapter 9: Tabular Modeling Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
+#### Chapter 10: NLP Deep Dive: RNNs
+- [Book Chapter](https://github.com/fastai/fastbook/blob/master/10_nlp.ipynb)
+#### Chapter 11: Data Munging with fastai's Mid-Level API
+- [Book Chapter](https://github.com/fastai/fastbook/blob/master/11_midlevel_data.ipynb)
+#### Chapter 12: A Language Model from Scratch
+- [Book Chapter](https://github.com/fastai/fastbook/blob/master/12_nlp_dive.ipynb)
 #### Other fast.ai resources
 * [fastai package documentation](https://docs.fast.ai/)
 * [fast.ai forums](https://forums.fast.ai/)
