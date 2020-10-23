@@ -17,7 +17,7 @@ Please submit any additional resources via pull request, or send them to me dire
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
 #### Chapter 8: Collaborative Filtering Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/08_collab.ipynb)
-- [Collaborative Learning with Book Crossing Dataset](notebooks/)
+- [Collaborative Learning with Book Crossing Dataset](notebooks/Collaborative%20Filtering%20Book%20Recommendations%20V2.ipynb)
 #### Chapter 9: Tabular Modeling Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 #### Chapter 10: NLP Deep Dive: RNNs
