@@ -17,7 +17,8 @@ Please submit any additional resources via pull request, or send them to me dire
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
 #### Chapter 8: Collaborative Filtering Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/08_collab.ipynb)
-- [Collaborative Learning with Book Crossing Dataset](notebooks/Collaborative%20Filtering%20Book%20Recommendations%20V2.ipynb)
+- [Collaborative Learning with Book Crossing Dataset](notebooks/Collaborative%20Filtering%20Book%20Recommendations%20V2.ipynb): This rough notebook walks through some of the sections of chapter 8 using the [book crossing dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) instead of the MovieLens dataset used in the chapter.
+- Embedding Demonstration using Excel Spreadsheets: for a more visual step-by-step walkthrough of the embeddings demonstrated in chapter 8, see [this YouTube video](https://www.youtube.com/watch?v=V2h3IOBDvrA&feature=youtu.be&list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=6147). An accompanying spreadsheet, prepared by the organizer of this study group, Andy Nakamura, can be downloaded [here](files/movies-for-study-group.xlsx).
 #### Chapter 9: Tabular Modeling Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 #### Chapter 10: NLP Deep Dive: RNNs
