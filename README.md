@@ -1,7 +1,7 @@
 # 2020 fast.ai Practical Deep Learning for Coders Study Group
 Collective wisdom of the fast_ai_practical_dl TWIML study group
 
-  ## Background
+## Background
 This repository contains resources found and/or developed by the [TWIML fast.ai Deep Learning for Coders Study Group](https://twimlai.com/program/fast-ai-practical-deep-learning-for-coders-study-group/). Lectures and course materials can be found [here](https://course.fast.ai/). Study group meetings are organized on the TWIML Community Slack server's `fast_ai_practical_dl` channel. To gain access to the Slack server, join the TWIML Community [here](https://twimlai.com/community/).
 
 ##   Resources
@@ -17,6 +17,7 @@ Please submit any additional resources via pull request, or send them to me dire
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
 #### Chapter 8: Collaborative Filtering Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/08_collab.ipynb)
+- [Collaborative Learning with Book Crossing Dataset](notebooks/)
 #### Chapter 9: Tabular Modeling Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
 #### Chapter 10: NLP Deep Dive: RNNs
