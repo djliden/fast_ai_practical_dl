@@ -21,6 +21,7 @@ Please submit any additional resources via pull request, or send them to me dire
 - Embedding Demonstration using Excel Spreadsheets: for a more visual step-by-step walkthrough of the embeddings demonstrated in chapter 8, see [this YouTube video](https://www.youtube.com/watch?v=V2h3IOBDvrA&feature=youtu.be&list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM&t=6147). An accompanying spreadsheet, prepared by the organizer of this study group, Andy Nakamura, can be downloaded [here](files/movies-for-study-group.xlsx).
 #### Chapter 9: Tabular Modeling Deep Dive
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb)
+- Page 278 mentions an "online-only chapter" replcating the approach taken by one of the gold medalists of the Kaggle *Rossman Sales Competition* which used a "state-of-the-art deep learning model" with embeddings. Two notesbooks with material related to this model/competition can be found here [1](https://github.com/fastai/fastai/blob/master/dev_nbs/course/lesson6-rossmann.ipynb) [2](https://github.com/fastai/fastai/blob/master/dev_nbs/course/rossman_data_clean.ipynb) (they appear to still be in development).
 #### Chapter 10: NLP Deep Dive: RNNs
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/10_nlp.ipynb)
 #### Chapter 11: Data Munging with fastai's Mid-Level API
