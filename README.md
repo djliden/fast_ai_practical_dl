@@ -24,6 +24,7 @@ Please submit any additional resources via pull request, or send them to me dire
 - Page 278 mentions an "online-only chapter" replcating the approach taken by one of the gold medalists of the Kaggle *Rossman Sales Competition* which used a "state-of-the-art deep learning model" with embeddings. Two notesbooks with material related to this model/competition can be found here [1](https://github.com/fastai/fastai/blob/master/dev_nbs/course/lesson6-rossmann.ipynb) [2](https://github.com/fastai/fastai/blob/master/dev_nbs/course/rossman_data_clean.ipynb) (they appear to still be in development).
 #### Chapter 10: NLP Deep Dive: RNNs
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/10_nlp.ipynb)
+- [MIT Technology Review Article on GPT-3](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/): OpenAI's GPT-3 model provides a good example of the potential -- and limitations -- of a modern, state-of-the-art language model. The linked article provides a good discussion of the areas where GPT-3 succeeds and where there is more work to be done.
 #### Chapter 11: Data Munging with fastai's Mid-Level API
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/11_midlevel_data.ipynb)
 #### Chapter 12: A Language Model from Scratch
