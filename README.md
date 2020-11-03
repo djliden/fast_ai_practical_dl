@@ -13,6 +13,7 @@ Please submit any additional resources via pull request, or send them to me dire
 #### Chapter 5: Image Classification
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb)
 - Demo of Transfer Learning in Fastai: [Notebook](notebooks/(Un)freezing%20and%20Transfer%20Learning.ipynb)
+- Guide to obtaining an image dataset using bing search: [Notebook](notebooks/02_getting-images-from-bing.ipynb)
 #### Chapter 6: Other Computer Vision Problems
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
 #### Chapter 8: Collaborative Filtering Deep Dive
@@ -25,6 +26,8 @@ Please submit any additional resources via pull request, or send them to me dire
 #### Chapter 10: NLP Deep Dive: RNNs
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/10_nlp.ipynb)
 - [MIT Technology Review Article on GPT-3](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/): OpenAI's GPT-3 model provides a good example of the potential -- and limitations -- of a modern, state-of-the-art language model. The linked article provides a good discussion of the areas where GPT-3 succeeds and where there is more work to be done.
+- Obtaining and Pre-processing Yelp reviews for NLP: [Notebook](/notebooks/10_nlp_dataset_yelp_file_reorg.ipynb)
+- Sentiment Analysis of Yelp reviews: [Notebook](notebooks/10_nlp_sentiment_yelp.ipynb)
 #### Chapter 11: Data Munging with fastai's Mid-Level API
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/11_midlevel_data.ipynb)
 #### Chapter 12: A Language Model from Scratch
