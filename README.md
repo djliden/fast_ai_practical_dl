@@ -10,10 +10,12 @@ Please submit any additional resources via pull request, or send them to me dire
 ### Deep Learning for Coders with fastai & PyTorch Book Chapters and Related Resources
 * [All book chapters](https://github.com/fastai/fastbook) -- the Fast.ai book as iPython notebooks
 * [MOOC](https://course.fast.ai/) -- Includes videos, setup instructions, etc.
+#### Chapter 2: From Model to Production
+- [Book Chapter](https://github.com/fastai/fastbook/blob/master/02_production.ipynb)
+- Guide to obtaining an image dataset using bing search: [Notebook](notebooks/02_getting-images-from-bing.ipynb)
 #### Chapter 5: Image Classification
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/05_pet_breeds.ipynb)
 - Demo of Transfer Learning in Fastai: [Notebook](notebooks/(Un)freezing%20and%20Transfer%20Learning.ipynb)
-- Guide to obtaining an image dataset using bing search: [Notebook](notebooks/02_getting-images-from-bing.ipynb)
 #### Chapter 6: Other Computer Vision Problems
 - [Book Chapter](https://github.com/fastai/fastbook/blob/master/06_multicat.ipynb)
 #### Chapter 8: Collaborative Filtering Deep Dive
